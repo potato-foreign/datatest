@@ -1,1 +1,2 @@
-Hello, this is my first Git account, please watch my maturing endeavour
+Hello, this is my first Git account, please watch my maturing endeavour.
+And then I added more text
